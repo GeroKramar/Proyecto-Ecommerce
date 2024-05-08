@@ -1,0 +1,22 @@
+
+1-  Mejorar el inicio..  
+ a- Mejorar el bento
+ b- acrecar el carrito de compras
+ c- Mejorar la navegacion de la app
+ d- Conectar las cards de productos.
+ e- Crear una vista con todos los productos.
+
+2- Conectar el login con el back
+
+3- conectar el register con el back
+
+4- crear la vista del carrito de compras
+  a- crear un arreglo que muestren todos los productos
+  b- crear la logica para que se guarden los productos en el estado global.
+  c- al realizar la compra que el carrito de compra se vacie.
+
+
+5 - Dashbord de Usuario
+  a- Mostrar las compras realizadas.
+  b- Mostrar informacion del usuario.
+
