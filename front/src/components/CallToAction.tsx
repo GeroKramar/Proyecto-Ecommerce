@@ -1,3 +1,4 @@
+import Link from "next/link";
 import React from "react";
 
 function CallToAction() {
@@ -17,12 +18,12 @@ function CallToAction() {
               natural events and human existence take place.
             </p>
             <div className="flex mt-8">
-              <a
-                href="#"
+              <Link
+                href="/products"
                 className="px-4 py-2 mr-4 text-white uppercase bg-[#e6aa9f] border-2 border-transparent rounded-lg text-md hover:bg-[#e3a094]"
               >
                 Buy NOW
-              </a>
+              </Link>
 
             </div>
           </div>

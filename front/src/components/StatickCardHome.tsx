@@ -9,7 +9,6 @@ function StatickCardHome() {
             <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8 relative">
               <div className="grid grid-cols-1 mt-6 sm:grid-cols-3 lg:mt-1">
                 <a
-                  href="#"
                   className="transition-all  duration-1000 bg-white hover:bg-[#9c9994]  hover:shadow-xl m-2 p-4 relative z-40 group  "
                 >
                   <div className=" absolute  bg-[#9c9994]/50 top-0 left-0 w-24 h-1 z-30  transition-all duration-200   group-hover:bg-white group-hover:w-1/2  "></div>
@@ -60,7 +59,7 @@ function StatickCardHome() {
                 </a>
 
                 <a
-                  href="#"
+                  
                   className="transition-all  duration-1000 bg-white hover:bg-[#9c9994]  hover:shadow-xl m-2 p-4 relative z-40 group  "
                 >
                   <div className=" absolute  bg-[#9c9994]/50 top-0 left-0 w-24 h-1 z-30  transition-all duration-200   group-hover:bg-white group-hover:w-1/2  "></div>
@@ -120,7 +119,7 @@ function StatickCardHome() {
                   </div>
                 </a>
                 <a
-                  href="#"
+                  
                   className="transition-all  duration-1000 bg-white hover:bg-[#9c9994]  hover:shadow-xl m-2 p-4 relative z-40 group  "
                 >
                   <div className=" absolute  bg-[#9c9994]/50 top-0 left-0 w-24 h-1 z-30  transition-all duration-200   group-hover:bg-white group-hover:w-1/2  "></div>
